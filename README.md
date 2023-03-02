@@ -5,6 +5,7 @@
 
 1. 目录修改为自动生成
 2. 图片、表格题注修改为插入题注的方法进行插入
+3. 标题支持pdf书签跳转
 
 latex模板链接： 
 CUMT-undergraduate-latex-template2022
