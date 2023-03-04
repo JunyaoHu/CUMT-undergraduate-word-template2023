@@ -11,7 +11,18 @@ latex模板链接：
 CUMT-undergraduate-latex-template2022
 https://github.com/Lighter207/CUMT-undergraduate-latex-template2022
 
-# 问题
+# 暂未解决的问题和临时采取的解决办法
+
+二级标题不符合要求的 `1.1 二级标题(subtitle)` 形式
+
+临时解决方案为
+
+```
+1.1 二级标题
+1.1 subtitle
+```
+
+# 使用方法
 
 ## 该插入什么标题
 
