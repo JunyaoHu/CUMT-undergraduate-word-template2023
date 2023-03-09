@@ -25,6 +25,11 @@ https://github.com/Lighter207/CUMT-undergraduate-latex-template2022
 1.1 二级标题
 1.1 subtitle
 ```
+如果老师不在意的话 那就没事
+
+如果严格要求，可以先这样写，把目录都生成好之后再手工排一下版
+
+
 
 # 使用方法
 
