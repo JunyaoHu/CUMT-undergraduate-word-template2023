@@ -7,13 +7,16 @@
 2. 图片、表格题注修改为插入题注的方法进行插入
 3. 标题支持pdf书签跳转
 
-latex模板链接： 
-CUMT-undergraduate-latex-template2022
+# latex模板 
+2022版：CUMT-undergraduate-latex-template2022
+
 https://github.com/Lighter207/CUMT-undergraduate-latex-template2022
 
-# 正在基于2022版修改2023版latex模板，敬请期待...
+2023版：CUMT-undergraduate-latex-template2023
 
-预计四月初完成。
+https://github.com/JunyaoHu/CUMT-undergraduate-latex-template2023
+
+主要改进的地方：把本科生论文的声明、授权相关页面进行了修改，读了部分代码并进行了一些注释和缩进方便后人进一步修改。主页logo图采用[标识系统官网](https://www.cumt.edu.cn/19843/list.htm)的图片。
 
 # 暂未解决的问题和临时采取的解决办法 欢迎提交PR
 
